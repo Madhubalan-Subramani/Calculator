@@ -1,16 +1,30 @@
-# calculator
+![WhatsApp Image 2025-03-26 at 10 57 57_4b521ed4](https://github.com/user-attachments/assets/6d96271d-7982-4141-8d99-8d2bdc883385)
 
-A new Flutter project.
+Calculator App
 
-## Getting Started
+A powerful and feature-rich calculator app built using Flutter. This app includes a variety of calculators, such as a basic calculator, age calculator, date difference calculator, and more. New features will be added in future updates!
 
-This project is a starting point for a Flutter application.
+Features
 
-A few resources to get you started if this is your first Flutter project:
+Basic Calculator – Perform standard arithmetic operations.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Age Calculator – Calculate your age based on date of birth.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Date Difference Calculator – Find the difference between two dates.
+
+User-Friendly UI – Simple and intuitive interface for easy calculations.
+
+Multi-Platform Support – Works on Android, iOS, Web, Windows, MacOS, and Linux.
+
+More Features Coming Soon! – Additional calculators will be added in future updates.
+
+Technologies Used
+
+Flutter – Cross-platform framework for building the app.
+
+Dart – Programming language for Flutter.
+
+Firebase (Future Integration) – Planned for authentication and cloud storage.
+
+GitHub – Version control and collaboration.
+
